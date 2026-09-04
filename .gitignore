@@ -1,0 +1,6 @@
+
+# Force ignore all env files
+.env
+*.env
+.env.*
+
